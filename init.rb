@@ -14,7 +14,7 @@ Redmine::Plugin.register :redmine_plot_sql do
   name 'Redmine Plot SQL plugin'
   author '9506hqwy'
   description 'This is a SVG graph rendering macro from SQL.'
-  version '0.1.0'
+  version '0.2.0'
   url 'https://github.com/9506hqwy/redmine_plot_sql'
   author_url 'https://github.com/9506hqwy'
 
